@@ -7,9 +7,9 @@ class CalssLoad  implements Cloneable{
 
       public int j = print("j");
       {
-          print("构造块sss");
+          print("构造块");
       }
-                 
+
       static {
           print("静态块");
       }
